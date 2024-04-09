@@ -1,0 +1,211 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "name": "ibrahim mohamed",
+      "email": "ibrahimmohamed@gmail.com",
+      "password": "12345",
+      "phone": "01284954021"
+    },
+    {
+      "name": "elsayed",
+      "email": "elsayed@mail.com",
+      "phone": "01200000000",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "moka",
+      "email": "moka@mail.com",
+      "phone": "01284954021",
+      "password": "12345",
+      "id": 3
+    }
+  ],
+  "flying": [
+    {
+      "id": 1,
+      "title": "شرم الشيخ",
+      "country": "مصر",
+      "price": 4717,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/SSH.jpg"
+    },
+    {
+      "id": 2,
+      "title": "أبها",
+      "country": "السعودية",
+      "price": 7991,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/AHB.jpg"
+    },
+    {
+      "id": 3,
+      "title": "اسطنبول",
+      "country": "تركيا",
+      "price": 8106,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/IST.jpg"
+    },
+    {
+      "id": 4,
+      "title": "عمان",
+      "country": "الاردن",
+      "price": 8360,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/AMM.jpg"
+    },
+    {
+      "id": 5,
+      "title": "باكو",
+      "country": "أذربيجان",
+      "price": 11335,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/BAK.jpg"
+    },
+    {
+      "id": 6,
+      "title": "أثينا",
+      "country": "اليونان",
+      "price": 11416,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/ATH.jpg"
+    },
+    {
+      "id": 7,
+      "title": "برلين",
+      "country": "ألمانيا",
+      "price": 12534,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/BER.jpg"
+    },
+    {
+      "id": 8,
+      "title": "أمستردام",
+      "country": "هولندا",
+      "price": 13335,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/AMS.jpg"
+    },
+    {
+      "id": 9,
+      "title": "بودابست",
+      "country": "المجر",
+      "price": 13911,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/BUD.jpg"
+    },
+    {
+      "id": 10,
+      "title": "أبو ظبي",
+      "country": "الإمارات العربية المتحدة",
+      "price": 4614,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/AUH.jpg"
+    },
+    {
+      "id": 11,
+      "title": "القاهرة",
+      "country": "مصر",
+      "price": 7124,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/CAI.jpg"
+    },
+    {
+      "id": 12,
+      "title": "مسقط",
+      "country": "سلطنة عمان",
+      "price": 7741,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/MCT.jpg"
+    },
+    {
+      "id": 13,
+      "title": "برشلونة",
+      "country": "إسبانيا",
+      "price": 16265,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/BCN.jpg"
+    },
+    {
+      "id": 14,
+      "title": "ماليه",
+      "country": "جزر المالديف",
+      "price": 18359,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/MLE.jpg"
+    },
+    {
+      "id": 15,
+      "title": "زانزيبار",
+      "country": "تنزانيا",
+      "price": 21826,
+      "img": "https://assets.wego.com/image/upload/h_296,c_fill,f_auto,fl_lossy,q_auto:best/v21012019/destinations/cities/ZNZ.jpg"
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "title": "فيرمونت نايل سيتي",
+      "area": "كورنيش النيل",
+      "price": 3245,
+      "img": "https://zen.wego.com/cdn-cgi/image/format=auto,height=240,quality=90/hotelz/1/85319438/839272606.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "فندق دوسيتاني القاهرة",
+      "area": "القاهرة الجديدة",
+      "price": 2981,
+      "img": "https://zen.wego.com/cdn-cgi/image/format=auto,height=240,quality=90/hotelz/s/30308159/699241855.jpg"
+    },
+    {
+      "id": 3,
+      "title": "فندق كيمبينسكي النيل القاهرة",
+      "area": "جاردن سيتي",
+      "price": 4550,
+      "img": "https://zen.wego.com/cdn-cgi/image/format=auto,height=240,quality=90/hotelz/s/2627563/650536278.jpg"
+    },
+    {
+      "id": 4,
+      "title": "إنتركونتنينتال سيتي ستارز القاهرة، أحد فنادق آي إتش جي",
+      "area": "مدينة نصر",
+      "price": 3650,
+      "img": "https://zen.wego.com/cdn-cgi/image/format=auto,height=240,quality=90/hotelz/s/1326825/937791524.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "إنتركونتيننتال سميراميس القاهرة",
+      "area": "داونتاون كايرو",
+      "price": 3440,
+      "img": "https://zen.wego.com/cdn-cgi/image/format=auto,height=240,quality=90/hotelz/s/30372111/786704300.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "فندق سوفيتل الجزيرة النيل القاهرة",
+      "area": "داونتاون كايرو",
+      "price": 3400,
+      "img": "https://zen.wego.com/cdn-cgi/image/format=auto,height=240,quality=90/hotelz/s/1326831/1140214655.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "فندق تريومف الفاخر",
+      "area": "القاهرة الجديدة",
+      "price": 3300,
+      "img": "https://zen.wego.com/cdn-cgi/image/format=auto,height=240,quality=90/hotelz/s/33953302/958230913.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "هوليداي إن القاهرة المعادي، آن آي آيتش جي هوتل",
+      "area": "المعادي",
+      "price": 3389,
+      "img": "https://zen.wego.com/cdn-cgi/image/format=auto,height=240,quality=90/hotelz/s/1612292/1132155418.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "هوليداي إن سيتي ستارز",
+      "area": "مدينة نصر",
+      "price": 3199,
+      "img": "https://zen.wego.com/cdn-cgi/image/format=auto,height=240,quality=90/hotelz/s/30315843/699260060.jpg"
+    },
+    {
+      "id": 10,
+      "title": "فندق سفير القاهرة",
+      "area": "الدقي",
+      "price": 2999,
+      "img": "https://zen.wego.com/cdn-cgi/image/format=auto,height=240,quality=90/hotelz/s/33400839/699241135.jpg"
+    },
+    {
+      "id": 11,
+      "title": "فندق توليب جاردنز",
+      "area": "مدينة نصر",
+      "price": 2789,
+      "img": "https://zen.wego.com/cdn-cgi/image/format=auto,height=240,quality=90/hotelz/s/71096081/1169646763.jpeg"
+    }
+  ]
+}
